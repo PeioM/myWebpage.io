@@ -14,7 +14,7 @@
 		<h1>GIT COMMANDS ASSIGMENT</h1>
 		<nav>
 			<a href="index.html"> Home </a>
-			<a href="barnchingStrategy.html"> Branching Strategy </a>
+			<a href="branchingStrategy.html"> Branching Strategy </a>
 			<a href="usedCommands.html"> Used commands </a>
 			<a href="branchDiagram.html"> Branch Diagram</a>
 		</nav>
