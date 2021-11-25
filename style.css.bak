@@ -30,9 +30,7 @@
             code safe and stable. It is also a good option for segmentation working. Instead of tracking the last
             version continuously, you can
             keep on working in each task. </p>
-         <h3>Disadvantages:</h3>
-        <p>Feature branching is not recommended for long develop branches. In this cases, merging can be a serious
-            problem because working each feature isolated can create conflicts when merging.</p>
+       
     </main>
 
     <footer>
