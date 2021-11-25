@@ -80,7 +80,9 @@ h1 {
     padding: 2rem;
 }
 /*TITLE STYLE ENDS*/
+
 /*NAVIGATION STYLE STARTS*/
+
 nav {
     display: flex;
     flex-direction: row;
@@ -142,8 +144,13 @@ footer {
 }
 /*FOOTER STYLE ENDS*/
 
+<<<<<<< HEAD
 footer > p {
     color: var(--color_5);
 }
 /*BODY STYLE ENDS*/
 >>>>>>> style
+=======
+
+/*BODY STYLE ENDS*/
+>>>>>>> 69c360f (Fix style file)
