@@ -55,6 +55,23 @@ a {
 /*NAVIGATION STYLE ENDS*/
 /*HEADER STYLE ENDS*/
 
+/*BASIC TEXT STYLE STARTS*/
+h2{
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 2rem;
+}
+h3{
+    padding-left: 2rem;
+    font-size: 1.5rem;
+}
+p {
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+/*BASIC TEXT STYLE ENDS*/
+
 /*FOOTER STYLE STARTS*/
 footer {
     bottom: 0;
