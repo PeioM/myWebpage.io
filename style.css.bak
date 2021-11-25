@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 
@@ -40,3 +41,109 @@
 </body>
 
 </html>
+=======
+/*VARIABLE DECLARATION*/
+:root {
+    --color_1: #16425B;
+    --color_2: #3A7CA5;
+    --color_3: #81C3D7;
+    --color_4: #D9DCD6;
+    --color_5: #F5F5F5;
+    --color_6: #E63946;
+}
+
+/*GENERIC STYLE*/
+* {
+    margin: 0;
+    padding: 0;
+}
+/*BODY STYLE STARTS*/
+body {
+    background-color: var(--color_4);
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    min-height: 100vh;
+}
+
+/*HEADER STYLE STARTS*/
+header {
+    background-color: var(--color_1);
+    display: flex;
+    flex-direction: column;
+}
+/*TITLE STYLE STARTS*/
+h1 {
+    color: var(--color_5);
+    text-align: center;
+    font-size: 3rem;
+    padding: 2rem;
+}
+/*TITLE STYLE ENDS*/
+/*NAVIGATION STYLE STARTS*/
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 1rem;
+}
+a {
+    background-color: var(--color_2);
+    color: var(--color_5);
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+}
+/*NAVIGATION STYLE ENDS*/
+/*HEADER STYLE ENDS*/
+
+/*BASIC TEXT STYLE STARTS*/
+h2{
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 2rem;
+}
+h3{
+    padding-left: 2rem;
+    font-size: 1.5rem;
+}
+p {
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+/*BASIC TEXT STYLE ENDS*/
+
+/*LIST STYLE STARTS*/
+ul {
+    padding: 0.5rem;
+    margin: 0.5rem;
+    margin-left: 2rem;
+    padding-left: 2rem;
+}
+li {
+    font-size: 1.5rem;
+}
+/*LIST STYLE ENDS*/
+
+/*FOOTER STYLE STARTS*/
+footer {
+    bottom: 0;
+    background-color: var(--color_1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    position: absolute;
+    bottom: 0;
+    width: 100%;      
+}
+/*FOOTER STYLE ENDS*/
+
+footer > p {
+    color: var(--color_5);
+}
+/*BODY STYLE ENDS*/
+>>>>>>> style
