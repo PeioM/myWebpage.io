@@ -21,7 +21,16 @@
 	</header>
 	
 	<main>
-	
+		<h2>Context</h2>
+		<p> This web page is a web page created with the objective of learning how different git commands work and how
+			they interact between each other.</p>
+		<p> The following points are some requirements for the task: </p>
+		<ul>
+			<li>Create your own webpage on GitHub pages</li>
+			<li>Select and justify the branching strategy you have selected</li>
+			<li>Use 10 new git commands not learned in class. The following git commands should be used: git revert, git
+				rabase, git cherry-pick. </li>
+		</ul>	
 	</main>
 	
 	<footer>
