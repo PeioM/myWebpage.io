@@ -100,5 +100,8 @@ footer {
 }
 /*FOOTER STYLE ENDS*/
 
+footer > p {
+    color: var(--color_5);
+}
 
 /*BODY STYLE ENDS*/
