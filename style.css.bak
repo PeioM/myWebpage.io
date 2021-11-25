@@ -72,6 +72,18 @@ p {
 }
 /*BASIC TEXT STYLE ENDS*/
 
+/*LIST STYLE STARTS*/
+ul {
+    padding: 0.5rem;
+    margin: 0.5rem;
+    margin-left: 2rem;
+    padding-left: 2rem;
+}
+li {
+    font-size: 1.5rem;
+}
+/*LIST STYLE ENDS*/
+
 /*FOOTER STYLE STARTS*/
 footer {
     bottom: 0;

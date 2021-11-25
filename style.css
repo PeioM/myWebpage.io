@@ -36,7 +36,9 @@ h1 {
     padding: 2rem;
 }
 /*TITLE STYLE ENDS*/
+
 /*NAVIGATION STYLE STARTS*/
+
 nav {
     display: flex;
     flex-direction: row;
@@ -98,7 +100,5 @@ footer {
 }
 /*FOOTER STYLE ENDS*/
 
-footer > p {
-    color: var(--color_5);
-}
+
 /*BODY STYLE ENDS*/
