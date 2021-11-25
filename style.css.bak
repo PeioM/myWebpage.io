@@ -1,0 +1,15 @@
+/*VARIABLE DECLARATION*/
+:root {
+    --color_1: #16425B;
+    --color_2: #3A7CA5;
+    --color_3: #81C3D7;
+    --color_4: #D9DCD6;
+    --color_5: #F5F5F5;
+    --color_6: #E63946;
+}
+
+/*GENERIC STYLE*/
+* {
+    margin: 0;
+    padding: 0;
+}
